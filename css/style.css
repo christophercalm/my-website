@@ -1,0 +1,60 @@
+body{
+    font: 15px "Montserrat", sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+}
+.bg-1 {
+    background-color: #5a2a33; /* Green */
+    color: #ffffff;
+}
+
+.bg-2 {
+    background-color: #235d73; /* dark green */
+    color: #ffffff;
+}
+
+.bg-3 {
+    background-color: #ffffff; /* White */
+    color: #555555;
+}
+
+.bg-4{
+    background: #235d73;
+    color: #ffffff;
+}
+
+.container-fluid{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 1px;
+    background-color: #235d73 !important;
+    color: white;
+}
+
+.navbar-nav li a{
+    color: #ffffff !important;
+}
+.navbar-nav li a:hover {
+    color:  #5a2a33 !important;
+}
+
+.navbar-default .navbar-brand {
+    color: #ffffff;
+}
+
+.margin {margin-bottom: 45px;}
+
+
+footer {
+
+    border-top: 50px solid #5a2a33;
+}
